@@ -1,0 +1,7 @@
+{
+    "max-instances": 1, 
+    "dangerous": false, 
+    "description": "Super window list for Cinnamon", 
+    "uuid": "super-window-list@bgstack15", 
+    "name": "Super window list"
+}
